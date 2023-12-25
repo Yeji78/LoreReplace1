@@ -1,0 +1,9 @@
+name: LoreReplace
+version: 1.0.0
+main: com.test.lorereplace.LoreReplace
+author: yeji778
+commands:
+  LoreReplace:
+    aliases:
+      - lr
+    permission-message: 你不能执行他

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LoreReplace">
+    <output-path>$PROJECT_DIR$/out/artifacts/LoreReplace</output-path>
+    <root id="archive" name="LoreReplace.jar">
+      <element id="module-output" name="LoreReplace.main" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/lang.yml" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,7 @@
+一:
+  FirstLore: "A"   #拿起的物品lore，即为替换后的lore
+  ReplaceLore: "B" #需要替换的语句
+二:
+  FirstLore: "牛逼"
+  ReplaceLore: "mua"
+
